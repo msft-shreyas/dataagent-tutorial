@@ -1,0 +1,3 @@
+- When asked about Revenue, use the fda.Sales.Price column
+- When asked about Customer spend, use the fda.Sales.[Total Payment Value] column
+- Note that the fda.Sales table may have multiple Products shipped in the same Order. 
