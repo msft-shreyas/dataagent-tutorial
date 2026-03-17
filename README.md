@@ -3,7 +3,7 @@ This repository contains all the content required for the Data Agent Tutorial at
 
 ## Q&A During Tutorial
 Please submit any and all questions during the tutorial to: [https://aka.ms/dataagent-qa](https://aka.ms/dataagent-qa)
-
+Note: This Q&A link will be active for a year from today, so that you may view responses to the questions asked during the session. 
 
 ## Updates for Lab 2 Failing example query: 
 ```
